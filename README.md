@@ -1,4 +1,4 @@
-# Business Performance Dashboard
+# PowerBI Business Performance Dashboard
 
 ## 📊 Overview
 This **Power BI Dashboard** provides key insights into **sales, inventory, and geographical analysis** to enhance business decision-making.
